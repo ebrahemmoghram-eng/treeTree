@@ -1,0 +1,6 @@
+{
+  "name": "سلسال - صانع شجرة العائلة",
+  "description": "تطبيق جوال تفاعلي لبناء وتصميم شجرة العائلة من الجد الأكبر وفروعه وصولاً للأجيال الحالية وتصديرها كصورة عالية الدقة أو PDF بتصميم راقٍ وألوان مخصصة لكل فرع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
